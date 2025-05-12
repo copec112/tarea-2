@@ -12,23 +12,23 @@ Spotifind es una aplicación de consola escrita en C que permite cargar una base
 ```bash
 gcc -o spotifind tarea2.c list.c map.c extra.c
 ````
-###ejecutar
+##ejecutar
 ````bash
 .\spotifind.exe
 ````
 
-### funcionalidad
+## funcionalidad
 Cargar Canciones	
 Buscar por Artista	
 Buscar por Género	
 Buscar por Tempo	
 
-###cosas que no estan en Spotifind
+##cosas que no estan en Spotifind
 Crear listas personalizadas	
 Guardar resultados
 esto se debe que en esta version no fue obligacion tenerlas, ya que trabajo solo
 
-###posibles errores
+##posibles errores
 dependiendo del tamaño del archivo, puede que el computador, no pueda procesar todo el archivo o que este se demore mucho(esto me paso con un camputador menos potente y varios personas tuvieron la misma experiencia)
 
 
