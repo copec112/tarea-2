@@ -12,7 +12,7 @@ Spotifind es una aplicación de consola escrita en C que permite cargar una base
 ```bash
 gcc -o spotifind tarea2.c list.c map.c extra.c
 ````
-##ejecutar
+###ejecutar
 ````bash
 .\spotifind.exe
 ````
